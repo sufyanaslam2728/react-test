@@ -91,7 +91,6 @@ Answer the follow questions inline, and commit it to your submission
 When you're done, push your code to a private GitHub repository under your username
 (e.g. github.com/your-username/frontend-challenge). Give access permissions for the repo to our team
 
-- @jasonbellamy
-- @avarona
+- @sufyanaslam2728
 
 Thanks for taking the time to complete the assignment!
